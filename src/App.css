@@ -1,0 +1,28 @@
+.hero {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+.hero-header{
+  font-family: 'Times New Roman', Times, serif;
+  margin: 20px 0px;
+}
+
+.app-video-container {
+  display: flex;
+  align-items: center;
+}
+
+.app-video {
+  height: 850px;
+  width: 1150px;
+}
+
+.app-canvas {
+  position: absolute;
+  top: 10px;
+}
